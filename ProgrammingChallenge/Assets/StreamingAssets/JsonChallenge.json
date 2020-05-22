@@ -30,12 +30,6 @@
             "Name": "Sally Sue",
             "Role": "Artist",
             "Nickname": "Sue5555"
-        },
-        {
-            "ID": "007",
-            "Name": "James Bond",
-            "Role": "Agent",
-            "Nickname": "JamesBond007"
         }
     ]
 }
